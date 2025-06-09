@@ -1,0 +1,857 @@
+gender,absences,n_agama,n_pkn,n_bindo,n_mat,n_bing,n_por,n_bjawa,n_kejuruan,n_sikap,organization,extracurricular,origin_jhs,address,parent_status,father_edu,father_work,father_salary,mother_edu,mother_work,mother_salary,scholarship,family_size,house_status,final_score
+P,1,94,84,87,85,82,89,89,87,A,ya,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Rumah Sendiri,BAIK
+P,1,83,82,87,82,79,84,88,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Pedagang Kecil,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,0,94,83,87,90,84,87,87,88,A,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Menumpang,BAIK
+P,3,94,83,88,85,81,89,89,88,A,tidak,ya,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,BAIK
+L,5,91,82,87,84,80,85,89,87,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SD sederajat,Buruh,Cukup Rendah,Tidak,5,Sewa,BAIK
+P,2,92,82,83,84,81,83,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Wiraswasta,Cukup Tinggi,Tidak,6,Rumah Sendiri,BAIK
+P,4,94,82,87,84,81,87,90,86,B,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,95,84,87,86,90,90,90,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Lainnya,Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,0,91,82,86,80,79,85,88,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMA sederajat,Lainnya,Rendah,Tidak,6,Sewa,BAIK
+P,3,95,84,84,84,85,91,89,87,A,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Menumpang,BAIK
+P,0,95,85,88,86,85,85,90,88,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,96,84,90,95,88,91,89,90,A,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,D3,Karyawan Swasta,Cukup Tinggi,Tidak,5,Menumpang,BAIK
+P,2,95,82,87,84,79,84,89,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SD sederajat,Buruh,Cukup Rendah,Ya,5,Sewa,BAIK
+P,3,95,84,88,86,79,85,89,83,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Lainnya,Cukup Rendah,SD sederajat,Pedagang Kecil,Cukup Rendah,Ya,4,Sewa,CUKUP
+P,1,96,83,88,90,87,89,90,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Tinggi,S1,Karyawan Swasta,Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,0,96,82,89,90,88,91,88,90,A,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wiraswasta,Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,4,90,84,83,81,81,85,89,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,5,83,83,84,88,83,84,88,87,B,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Buruh,Rendah,Tidak,5,Menumpang,BAIK
+P,0,95,84,91,86,86,92,89,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Rumah Sendiri,BAIK
+P,2,94,82,89,85,81,90,89,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,2,95,84,91,85,83,91,88,89,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,3,90,83,87,80,82,88,88,88,B,tidak,ya,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,S1,Pedagang Kecil,Rendah,Tidak,6,Menumpang,BAIK
+P,2,94,82,88,80,80,91,88,88,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,BAIK
+P,1,94,84,90,82,81,91,88,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,Lainnya,Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,1,94,83,89,86,84,89,90,89,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,95,84,88,86,81,91,91,89,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,96,83,91,88,83,88,90,89,A,ya,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,95,83,92,82,81,88,89,88,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Sangat Rendah,SMA sederajat,Wiraswasta,Rendah,Ya,4,Menumpang,BAIK
+P,1,96,82,89,82,82,90,88,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,BAIK
+P,0,95,82,91,86,88,91,88,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,PNSTNIPolri,Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,2,97,83,91,90,91,89,90,90,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,BAIK
+P,5,92,82,88,84,80,91,90,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,1,84,83,89,86,81,87,88,89,A,tidak,tidak,negeri,kabupaten,Kawin,D3,Karyawan Swasta,Cukup Tinggi,D3,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,2,95,82,88,82,83,88,89,90,A,tidak,ya,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SMA sederajat,Buruh,Rendah,Ya,4,Sewa,BAIK
+P,3,93,82,90,86,82,91,89,89,A,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,95,82,84,78,79,87,88,86,B,tidak,tidak,negeri,kabupaten,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMP sederajat,Buruh,Cukup Tinggi,Ya,4,Rumah Sendiri,BAIK
+P,4,94,81,79,80,79,87,89,83,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMP sederajat,Lainnya,Cukup Rendah,Ya,4,Rumah Sendiri,CUKUP
+P,2,88,82,91,88,87,82,89,87,A,tidak,ya,negeri,kota,Kawin,D3,Karyawan Swasta,Tinggi,S1,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,0,93,83,79,78,83,84,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,95,82,88,85,85,87,89,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pensiunan,Cukup Rendah,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,95,82,95,84,81,86,89,88,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+L,5,94,81,85,78,81,87,89,85,B,ya,ya,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,96,83,91,86,82,88,90,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,D1,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,5,91,81,80,85,81,88,90,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pensiunan,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Sewa,BAIK
+P,4,95,82,79,80,82,86,90,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,2,95,84,91,85,82,85,91,86,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Lainnya,Sangat Rendah,SMA sederajat,Buruh,Rendah,Tidak,4,Menumpang,BAIK
+P,2,83,83,91,83,83,87,91,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+L,2,94,82,83,78,78,86,88,85,B,ya,tidak,swasta,kota,Kawin,SMA sederajat,Lainnya,Cukup Tinggi,SD sederajat,Pedagang Kecil,Rendah,Tidak,4,Rumah Sendiri,CUKUP
+P,2,95,82,95,86,85,88,88,88,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,95,82,91,84,85,86,89,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Lainnya,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,3,96,84,90,90,85,87,90,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,89,83,85,80,80,86,91,85,B,tidak,tidak,negeri,kota,Kawin,D1,Wiraswasta,Cukup Tinggi,S1,Karyawan Swasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,CUKUP
+P,3,90,82,80,82,80,90,89,87,B,tidak,tidak,negeri,kabupaten,Kawin,D3,Wirausaha,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,1,96,81,91,85,82,90,90,88,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,93,82,91,86,84,86,88,87,A,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Rendah,S1,Karyawan Swasta,Cukup Tinggi,Tidak,4,Sewa,BAIK
+P,0,86,82,88,80,81,85,89,84,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Wiraswasta,Tinggi,Tidak,5,Sewa,CUKUP
+P,0,94,85,88,86,87,86,89,87,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,2,91,82,92,87,86,90,89,88,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,3,90,84,85,85,86,89,91,87,A,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,0,95,83,94,85,82,88,91,86,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,4,94,83,85,82,81,88,89,86,B,tidak,tidak,swasta,kabupaten,Kawin,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,SD sederajat,Pedagang Kecil,Cukup Rendah,Tidak,7,Menumpang,BAIK
+P,2,85,82,92,85,81,86,90,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,0,95,82,91,88,82,88,90,88,A,tidak,ya,negeri,kota,Kawin,D3,Wiraswasta,Cukup Tinggi,D3,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,2,94,84,92,85,80,86,89,86,A,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Lainnya,Cukup Tinggi,Tidak,3,Menumpang,BAIK
+P,1,92,81,91,86,83,89,89,86,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Rendah,SD sederajat,Wirausaha,Rendah,Ya,5,Sewa,BAIK
+P,0,83,81,92,80,81,86,88,86,B,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Menumpang,BAIK
+P,1,93,81,91,86,79,87,88,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,1,91,82,80,83,79,86,89,84,B,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Menumpang,CUKUP
+P,3,94,82,85,82,80,88,88,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,95,82,87,84,81,88,91,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,95,82,92,85,80,86,90,87,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,4,84,81,91,82,78,84,90,83,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,0,95,82,85,86,81,92,90,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Rendah,Tidak,5,Sewa,BAIK
+P,4,84,81,90,85,85,90,88,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,1,94,81,82,80,81,87,89,87,B,tidak,tidak,swasta,kota,Kawin,SD sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,81,81,81,82,83,90,89,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Rumah Sendiri,CUKUP
+P,5,82,81,85,84,81,90,90,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,3,84,80,85,85,83,91,89,86,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,S1,Wiraswasta,Cukup Tinggi,Tidak,5,Menumpang,BAIK
+P,1,95,82,81,85,83,92,90,87,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,BAIK
+P,2,95,80,83,87,83,91,89,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,95,81,83,78,82,92,90,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Rumah Sendiri,BAIK
+L,2,95,81,82,82,83,89,90,87,B,ya,tidak,negeri,kota,Kawin,S2,PNSTNIPolri,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,81,81,86,83,83,90,89,85,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak sekolah,Karyawan Swasta,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,4,82,81,82,82,82,91,90,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Petani,Cukup Tinggi,SMP sederajat,Wirausaha,Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,5,85,81,83,81,84,90,90,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+L,2,96,83,85,85,82,89,88,88,A,ya,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,BAIK
+P,3,95,82,90,88,85,91,87,89,A,tidak,tidak,negeri,kabupaten,Kawin,D3,Lainnya,Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,2,92,81,79,83,83,87,88,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,91,80,83,85,82,91,90,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMP sederajat,Buruh,Cukup Tinggi,Tidak,4,Sewa,BAIK
+P,2,96,83,91,86,81,90,90,89,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,5,94,80,85,83,83,88,90,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Lainnya,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,2,95,82,87,84,84,91,88,90,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,S1,Lainnya,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,4,84,83,85,86,81,88,88,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,95,82,85,86,83,89,90,88,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,3,94,82,88,86,82,89,91,87,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,0,94,81,90,84,84,88,90,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,0,94,83,82,84,83,88,88,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,93,82,81,82,81,89,88,88,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,0,95,81,82,85,83,85,88,87,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Lainnya,Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,1,97,81,91,85,83,91,89,88,A,tidak,ya,swasta,kabupaten,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Menumpang,BAIK
+P,2,92,80,87,86,82,88,90,87,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,3,96,81,88,85,81,90,89,89,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,0,84,80,87,85,82,87,89,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Sewa,BAIK
+P,2,83,81,91,88,81,89,88,88,A,tidak,tidak,negeri,kabupaten,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Menumpang,BAIK
+P,1,96,81,89,85,82,91,87,89,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMP sederajat,Buruh,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,4,84,81,83,85,85,87,88,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,95,81,86,84,82,87,89,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,1,94,82,83,86,85,90,90,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak sekolah,Wiraswasta,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,1,94,82,83,81,82,86,88,87,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Buruh,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,5,75,81,83,78,77,85,88,81,C,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+P,2,96,82,81,87,85,86,88,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,4,81,82,78,81,75,84,89,79,C,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,5,95,82,78,88,80,86,90,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,3,92,82,81,88,78,84,89,85,B,tidak,ya,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,2,84,82,82,86,82,86,87,85,B,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Buruh,Rendah,Tidak,3,Menumpang,CUKUP
+P,0,82,82,80,84,80,81,88,84,B,tidak,tidak,swasta,kota,Kawin,S1,Karyawan Swasta,Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,1,91,81,85,80,80,86,90,84,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,0,88,82,80,87,81,87,90,86,B,tidak,tidak,swasta,kota,Kawin,D3,Karyawan Swasta,Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,81,82,81,80,80,86,89,84,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+P,0,96,82,83,90,83,92,88,88,A,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,6,Menumpang,BAIK
+P,3,83,82,80,84,81,84,88,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,4,91,82,81,78,79,86,88,87,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,CUKUP
+P,1,84,82,84,90,86,88,90,88,A,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,5,93,82,82,78,75,86,90,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,3,84,82,81,83,81,85,90,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,1,95,82,84,87,81,90,87,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,3,85,82,81,86,85,86,89,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,0,95,82,85,90,85,88,87,92,A,tidak,tidak,negeri,kota,Kawin,D3,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,1,83,82,79,82,76,82,88,83,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,5,94,82,81,88,81,86,89,86,B,tidak,tidak,negeri,kota,Kawin,S2,Lainnya,Cukup Tinggi,S2,PNSTNIPolri,Cukup Tinggi,Tidak,6,Rumah Sendiri,BAIK
+P,0,95,82,81,92,83,89,90,89,A,tidak,tidak,negeri,kota,Kawin,S1,PNSTNIPolri,Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,83,81,79,85,80,86,90,82,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,CUKUP
+P,4,83,82,82,85,82,87,88,83,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Tinggi,SD sederajat,Buruh,Cukup Rendah,Tidak,6,Rumah Sendiri,CUKUP
+P,0,95,81,85,85,82,88,89,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Buruh,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,3,92,81,83,83,81,90,87,85,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Lainnya,Rendah,Tidak,3,Menumpang,BAIK
+P,1,91,82,82,88,86,89,90,90,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Rendah,Tidak,4,Sewa,BAIK
+P,2,95,82,81,90,88,85,89,86,A,tidak,ya,swasta,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,0,96,82,83,88,86,89,88,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,2,84,82,82,80,83,86,88,82,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,CUKUP
+P,2,92,82,81,84,80,86,88,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Wirausaha,Cukup Rendah,Tidak,3,Sewa,BAIK
+P,0,91,81,80,78,76,83,88,82,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,0,96,83,82,89,85,92,89,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,4,94,83,79,88,83,88,90,85,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wirausaha,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,10,Sewa,BAIK
+P,2,94,83,88,88,84,90,89,88,A,ya,tidak,swasta,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,95,82,86,85,80,86,90,87,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Pedagang Besar,Cukup Tinggi,SD sederajat,Pedagang Besar,Cukup Tinggi,Ya,12,Rumah Sendiri,BAIK
+P,0,84,81,86,80,81,89,89,85,B,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,D1,Karyawan Swasta,Cukup Tinggi,Tidak,3,Menumpang,CUKUP
+P,5,95,82,87,80,81,88,88,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,5,95,83,87,78,84,84,89,87,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,1,94,81,85,88,81,86,89,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,2,84,82,86,94,82,87,89,87,A,tidak,tidak,negeri,kota,Cerai Mati,SD sederajat,Buruh,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,3,84,82,85,81,81,87,90,86,B,tidak,tidak,swasta,kota,Kawin,Tidak sekolah,Wiraswasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,CUKUP
+P,1,95,83,88,85,81,88,90,87,A,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,85,82,85,81,85,88,90,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMP sederajat,Buruh,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,3,96,84,87,83,81,88,90,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Besar,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,0,95,81,83,86,81,90,90,89,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,95,83,86,80,80,88,90,86,B,tidak,tidak,negeri,kota,Cerai Mati,D3,Buruh,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,1,92,82,88,83,83,87,89,88,A,tidak,tidak,negeri,kabupaten,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,2,81,82,84,78,81,86,90,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,CUKUP
+P,0,91,82,87,78,80,89,89,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Lainnya,Rendah,SMA sederajat,Lainnya,Sangat Rendah,Tidak,4,Sewa,BAIK
+P,1,85,82,85,79,78,86,90,85,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,5,92,82,83,78,79,87,90,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Rumah Sendiri,CUKUP
+P,2,95,82,82,81,81,86,89,87,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Tinggi,SD sederajat,Wiraswasta,Rendah,Tidak,5,Rumah Sendiri,BAIK
+P,0,95,82,86,82,80,90,90,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,BAIK
+P,3,95,81,85,81,84,86,88,88,A,tidak,tidak,negeri,kota,Cerai Mati,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,3,95,83,85,85,84,86,89,87,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMP sederajat,Buruh,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,0,94,81,88,88,80,89,90,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,93,83,84,80,81,86,89,87,B,tidak,tidak,negeri,kabupaten,Kawin,SD sederajat,Wiraswasta,Sangat Rendah,SMA sederajat,Wiraswasta,Sangat Rendah,Tidak,4,Menumpang,BAIK
+P,4,89,83,81,78,80,86,89,83,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Rumah Sendiri,CUKUP
+P,2,94,82,84,83,80,85,88,86,B,tidak,tidak,negeri,kabupaten,Kawin,S1,PNSTNIPolri,Tinggi,S1,Pensiunan,Rendah,Tidak,5,Rumah Sendiri,BAIK
+P,4,93,82,84,80,80,88,90,86,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,5,Sewa,BAIK
+P,4,84,82,83,83,80,85,90,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,BAIK
+P,3,86,82,84,80,81,87,88,86,B,tidak,tidak,negeri,kabupaten,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,4,95,82,85,85,79,83,88,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Lainnya,Rendah,Ya,3,Rumah Sendiri,BAIK
+P,2,94,82,82,81,83,84,88,87,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,BAIK
+P,4,92,81,85,82,81,86,90,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,1,92,83,84,78,81,87,90,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,87,82,84,84,83,88,88,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Wiraswasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,1,94,82,87,85,80,85,88,88,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Buruh,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,2,93,82,84,88,80,87,89,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Lainnya,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,5,84,82,85,83,85,81,89,87,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Petani,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Sewa,BAIK
+P,2,94,82,88,83,84,90,88,89,A,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,S1,Lainnya,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,3,86,82,87,84,86,88,89,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,3,94,81,85,83,81,81,90,86,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Lainnya,Rendah,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Sewa,BAIK
+P,4,84,83,84,83,85,82,88,87,B,tidak,tidak,negeri,kabupaten,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Lainnya,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,3,92,82,83,83,85,86,87,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,4,82,81,82,81,85,82,88,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,3,95,81,84,81,85,82,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,0,94,82,81,83,82,82,87,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,2,95,84,86,84,87,91,87,89,A,tidak,ya,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,0,95,82,84,83,86,86,88,85,B,tidak,ya,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SMP sederajat,Buruh,Sangat Rendah,Tidak,3,Sewa,BAIK
+P,5,84,82,83,84,86,82,87,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,5,94,82,83,83,85,90,88,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,2,94,82,84,81,82,82,87,84,B,tidak,tidak,negeri,kabupaten,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak sekolah,Buruh,Cukup Rendah,Tidak,3,Menumpang,CUKUP
+P,3,80,81,84,80,80,83,87,81,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Buruh,Cukup Rendah,Ya,5,Sewa,CUKUP
+P,5,81,81,83,84,81,82,89,84,B,ya,tidak,swasta,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,D3,Wiraswasta,Cukup Rendah,Tidak,3,Rumah Sendiri,CUKUP
+P,4,85,82,85,84,85,82,87,84,B,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Menumpang,CUKUP
+P,3,84,81,84,84,85,82,88,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,4,86,81,83,83,85,86,90,87,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Ya,3,Sewa,BAIK
+P,4,94,82,86,84,84,88,90,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,4,94,82,82,83,81,86,88,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,1,96,82,85,84,85,88,88,87,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,3,95,82,88,84,86,89,88,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,3,95,82,83,84,85,88,89,88,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Buruh,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,3,83,81,81,83,83,81,88,85,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,2,83,81,82,83,81,82,88,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,3,95,82,86,84,85,91,89,88,A,tidak,ya,negeri,kota,Cerai Mati,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,4,93,82,82,80,82,86,88,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,CUKUP
+P,5,80,82,82,82,82,82,88,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,1,80,82,84,82,81,82,87,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Cukup Rendah,SMP sederajat,Lainnya,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,4,90,81,80,82,80,81,87,85,B,tidak,tidak,swasta,kabupaten,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,CUKUP
+P,5,84,81,84,84,82,82,89,85,B,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Karyawan Swasta,Cukup Tinggi,Tidak sekolah,Karyawan Swasta,Cukup Rendah,Tidak,3,Rumah Sendiri,CUKUP
+P,3,90,81,81,82,83,90,87,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,CUKUP
+P,3,75,81,81,83,80,81,89,84,B,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,CUKUP
+P,5,82,81,87,83,82,88,90,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SMP sederajat,Karyawan Swasta,Rendah,Tidak,3,Sewa,BAIK
+P,5,75,81,82,81,84,81,89,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,CUKUP
+P,2,95,81,83,83,81,91,90,87,A,ya,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,95,82,86,84,83,83,90,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Ya,5,Sewa,BAIK
+P,1,94,81,84,83,83,89,90,88,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,89,81,83,80,80,88,89,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,1,94,83,83,83,82,88,88,87,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Pedagang Kecil,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,5,94,81,83,83,81,89,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,2,85,82,85,84,85,86,89,88,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,BAIK
+P,2,93,81,84,83,85,84,89,89,A,tidak,tidak,negeri,kota,Kawin,D2,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,3,90,82,85,84,84,86,88,88,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,2,93,81,86,84,82,83,89,88,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,94,84,85,83,85,90,90,89,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,2,91,81,86,83,83,90,90,86,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,5,84,82,83,83,82,88,90,87,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,3,94,82,84,83,82,90,90,88,A,tidak,tidak,negeri,kota,Kawin,Putus SD,Buruh,Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+P,1,95,81,85,83,83,88,91,87,A,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Pedagang Kecil,Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,4,93,82,85,84,84,90,88,86,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Buruh,Sangat Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,2,94,82,84,83,83,85,88,86,B,tidak,ya,negeri,kota,Kawin,Putus SD,Buruh,Rendah,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,2,95,82,84,83,83,88,90,89,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Karyawan Swasta,Cukup Rendah,Ya,5,Sewa,BAIK
+P,2,81,83,85,83,82,90,89,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,3,93,82,85,83,83,84,90,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,94,82,85,83,83,88,89,89,A,tidak,ya,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,1,94,82,86,84,84,89,90,87,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,2,95,82,85,83,81,91,89,89,A,tidak,ya,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Sangat Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,1,84,82,84,83,84,82,88,87,B,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Menumpang,BAIK
+P,0,94,81,85,80,81,86,88,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,1,95,82,83,83,84,85,89,90,A,ya,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,94,83,84,84,84,84,90,88,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Lainnya,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,79,82,83,83,83,85,90,86,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Pedagang Kecil,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,3,95,81,86,83,83,85,89,89,A,tidak,tidak,negeri,kota,Kawin,S1,Lainnya,Tinggi,D1,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,2,94,83,85,83,81,86,88,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,4,82,82,84,83,81,84,90,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Wiraswasta,Rendah,Ya,5,Sewa,BAIK
+P,2,94,82,85,83,82,86,91,89,A,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Menumpang,BAIK
+P,2,95,82,84,83,80,86,88,88,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,2,81,82,84,83,83,88,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,2,95,82,82,82,81,88,89,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMP sederajat,Buruh,Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,2,81,82,83,84,82,86,88,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,S1,Karyawan Swasta,Cukup Rendah,Tidak,3,Rumah Sendiri,CUKUP
+P,4,94,82,87,84,81,88,89,84,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Sangat Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,2,89,82,79,85,81,88,89,85,B,tidak,tidak,swasta,kabupaten,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,CUKUP
+P,1,84,82,81,81,83,88,89,84,B,tidak,ya,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,CUKUP
+P,3,92,82,85,82,85,86,89,83,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,1,84,82,87,85,83,86,86,85,B,tidak,tidak,negeri,kota,Kawin,S2,PNSTNIPolri,Cukup Rendah,S1,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,3,91,82,79,81,82,85,88,88,B,tidak,ya,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+P,5,89,82,79,82,81,86,87,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,3,94,82,88,85,85,88,88,86,A,tidak,ya,swasta,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak dapat diterapkan,Cukup Rendah,Tidak,3,Menumpang,BAIK
+P,2,96,83,90,85,85,88,88,85,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,1,94,82,85,85,85,86,87,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,5,91,82,83,81,81,85,88,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,0,85,82,88,85,85,90,88,87,A,tidak,ya,negeri,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Buruh,Rendah,Tidak,3,Menumpang,BAIK
+P,4,91,83,81,85,83,88,89,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+L,2,93,82,79,84,82,88,90,86,B,ya,tidak,negeri,kabupaten,Kawin,SD sederajat,Petani,Cukup Rendah,SD sederajat,Petani,Cukup Rendah,Ya,3,Sewa,BAIK
+P,2,92,83,87,85,84,88,91,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+L,3,85,82,80,85,85,91,89,89,A,ya,ya,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,D3,Wiraswasta,Rendah,Tidak,3,Sewa,BAIK
+P,1,95,83,87,85,83,87,89,86,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,2,93,82,87,85,86,86,89,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,83,82,82,83,84,86,90,85,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SD sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,1,91,82,82,82,86,88,88,87,B,tidak,ya,negeri,kota,Kawin,D1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,5,90,82,82,81,83,84,88,79,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,PNSTNIPolri,Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+L,3,94,82,85,85,85,84,90,88,A,ya,tidak,swasta,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,2,96,83,83,84,84,90,88,86,A,tidak,ya,negeri,kota,Kawin,Putus SD,Buruh,Cukup Rendah,Putus SD,Pedagang Kecil,Cukup Rendah,Ya,3,Sewa,BAIK
+P,2,93,82,89,84,81,88,88,87,A,tidak,ya,negeri,kota,Kawin,SMP sederajat,Buruh,Rendah,Putus SD,Buruh,Rendah,Tidak,3,Sewa,BAIK
+P,5,93,84,79,80,81,84,88,86,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+L,5,83,82,80,83,82,86,89,83,B,ya,tidak,negeri,kota,Kawin,D3,Wiraswasta,Cukup Rendah,S3,PNSTNIPolri,Cukup Tinggi,Tidak,3,Sewa,CUKUP
+L,0,90,82,83,84,86,89,90,84,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+P,5,94,82,79,84,81,86,89,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,1,95,82,88,84,85,86,88,86,A,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SD sederajat,Karyawan Swasta,Rendah,Tidak,3,Sewa,BAIK
+P,4,94,82,81,84,80,88,89,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Rendah,SD sederajat,Karyawan Swasta,Rendah,Tidak,3,Sewa,BAIK
+P,4,94,82,81,81,84,84,90,87,B,tidak,tidak,negeri,kota,Kawin,D3,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,2,89,82,81,81,80,84,90,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+L,1,93,82,81,84,83,86,89,88,A,ya,tidak,swasta,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,2,94,82,80,85,83,88,89,82,B,ya,tidak,negeri,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,CUKUP
+P,0,85,82,89,83,81,88,88,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,4,84,82,86,83,81,86,90,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,1,84,82,81,84,85,89,90,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMA sederajat,Karyawan Swasta,Rendah,Tidak,3,Sewa,BAIK
+P,2,95,82,88,83,86,90,87,86,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,1,94,81,86,83,82,87,89,88,A,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak sekolah,Pedagang Kecil,Cukup Rendah,Ya,3,Menumpang,BAIK
+P,5,94,82,80,83,80,83,89,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,1,84,81,87,84,86,87,87,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,3,81,81,78,83,82,89,88,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,1,94,83,94,84,86,85,88,88,A,tidak,tidak,negeri,kota,Kawin,Putus SD,Karyawan Swasta,Rendah,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Sewa,BAIK
+P,4,91,82,84,84,84,87,89,84,B,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,81,81,78,81,81,88,89,91,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+L,3,94,82,87,83,82,89,88,88,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,2,95,82,91,81,83,85,87,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+L,0,81,81,91,83,85,88,88,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,3,95,81,93,84,82,86,87,90,A,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,2,83,81,78,84,81,85,88,82,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,S1,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,0,94,82,83,84,84,86,88,88,A,tidak,ya,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,1,90,82,78,84,85,88,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+L,3,93,81,89,83,87,90,88,87,A,ya,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,3,96,82,90,83,82,88,87,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+L,5,92,81,84,84,85,91,87,86,B,ya,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,S1,Wiraswasta,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,0,92,82,84,83,81,89,88,88,A,tidak,tidak,negeri,kota,Kawin,Putus SD,Buruh,Rendah,SMP sederajat,Buruh,Rendah,Tidak,3,Sewa,BAIK
+P,1,92,81,92,83,83,91,87,87,A,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,4,94,82,81,81,86,90,89,86,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,2,94,82,89,83,82,88,90,89,A,tidak,ya,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SD sederajat,Buruh,Sangat Rendah,Ya,3,Sewa,BAIK
+P,0,96,84,86,81,86,92,90,87,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+L,1,94,82,89,83,85,89,88,86,A,ya,tidak,negeri,kota,Kawin,S1,PNSTNIPolri,Tinggi,S1,PNSTNIPolri,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,2,92,83,78,80,80,91,87,89,B,tidak,tidak,negeri,kota,Cerai Mati,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Buruh,Rendah,Tidak,3,Menumpang,BAIK
+P,1,95,82,83,82,81,90,88,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Lainnya,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,3,82,81,78,83,83,89,88,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,CUKUP
+P,0,83,81,87,83,83,88,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+L,0,87,81,92,81,84,89,89,89,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,3,95,81,89,83,83,91,90,89,A,tidak,tidak,negeri,kota,Cerai Mati,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Wiraswasta,Cukup Rendah,Ya,3,Menumpang,BAIK
+P,3,81,81,78,81,80,87,90,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Sewa,BAIK
+L,3,96,81,81,84,84,91,88,88,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Lainnya,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+L,5,91,81,78,83,85,87,89,87,B,ya,tidak,negeri,kota,Kawin,D3,Wiraswasta,Cukup Rendah,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,3,92,82,81,86,82,89,89,85,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Pedagang Kecil,Cukup Rendah,Tidak,6,Menumpang,BAIK
+P,1,84,82,81,79,82,87,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,1,84,82,81,80,82,87,88,86,B,tidak,tidak,negeri,kota,Cerai Mati,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,SD sederajat,Lainnya,Cukup Rendah,Ya,4,Menumpang,CUKUP
+P,0,82,82,82,80,82,85,89,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,4,94,82,83,78,82,86,89,87,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Pedagang Kecil,Cukup Rendah,Tidak,6,Menumpang,BAIK
+P,2,83,81,78,78,81,82,90,88,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Menumpang,CUKUP
+P,1,82,82,80,81,84,85,90,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,0,96,82,79,83,83,85,90,85,B,tidak,tidak,negeri,kota,Kawin,S1,Pensiunan,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,82,81,80,77,83,84,89,84,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Pedagang Kecil,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,5,82,81,79,87,81,84,89,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Lainnya,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,0,83,82,81,77,84,85,87,87,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Menumpang,CUKUP
+P,3,94,82,82,90,81,89,88,88,A,tidak,ya,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,2,93,81,80,87,81,89,88,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,BAIK
+P,3,83,81,78,77,80,82,88,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,3,82,81,80,85,81,83,90,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,CUKUP
+P,5,82,82,83,77,82,81,90,84,B,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,D3,Karyawan Swasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,CUKUP
+P,4,92,82,86,83,82,84,88,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,81,81,83,81,81,92,88,83,B,tidak,tidak,negeri,kota,Kawin,S1,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,4,83,81,88,89,85,87,89,86,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,2,93,82,81,88,82,89,92,85,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,3,83,82,82,85,81,88,88,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Sewa,CUKUP
+P,3,81,82,86,78,81,87,89,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,5,81,82,79,80,80,87,90,84,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+P,3,81,82,82,79,81,83,90,83,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,D3,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,CUKUP
+P,0,92,81,80,79,81,87,90,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,0,90,81,83,83,80,87,89,83,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Wiraswasta,Cukup Tinggi,Tidak,6,Sewa,CUKUP
+P,2,83,82,85,79,81,89,89,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,3,92,82,84,86,82,89,89,87,A,tidak,ya,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,1,83,81,84,81,80,86,90,85,B,tidak,tidak,negeri,kota,Kawin,S1,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,3,83,82,82,82,80,89,91,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SMA sederajat,Buruh,Rendah,Tidak,5,Sewa,CUKUP
+P,4,82,81,81,80,81,86,87,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Rendah,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,1,90,81,81,82,81,84,89,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+P,0,83,81,81,75,80,90,90,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,3,94,82,88,90,84,89,91,86,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,5,84,81,86,87,81,89,90,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Lainnya,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,CUKUP
+P,2,83,81,83,85,81,89,89,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,5,92,81,83,78,83,86,89,85,B,tidak,tidak,negeri,kota,Cerai Mati,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Menumpang,CUKUP
+P,5,83,81,82,82,82,81,90,83,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,CUKUP
+P,3,94,81,81,78,81,86,90,82,B,tidak,tidak,negeri,kota,Cerai Mati,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,SD sederajat,Buruh,Cukup Rendah,Ya,4,Menumpang,CUKUP
+P,2,95,81,83,82,81,93,90,86,B,tidak,ya,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Buruh,Cukup Rendah,Tidak,3,Sewa,BAIK
+P,2,94,81,81,79,82,81,90,85,B,tidak,tidak,negeri,kota,Kawin,D1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,2,91,81,83,77,81,88,89,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Pedagang Kecil,Sangat Rendah,Tidak,4,Sewa,CUKUP
+P,2,84,81,81,83,82,83,88,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,1,91,81,80,79,80,88,88,82,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Sewa,CUKUP
+P,1,83,82,82,87,85,88,90,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,92,82,83,84,81,86,90,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Lainnya,Cukup Tinggi,SD sederajat,Lainnya,Sangat Rendah,Ya,5,Rumah Sendiri,BAIK
+P,5,83,81,82,82,84,87,89,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,4,82,82,81,84,83,86,89,88,B,tidak,ya,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,2,91,81,83,75,82,81,89,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,CUKUP
+P,4,92,82,82,86,81,92,89,86,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+P,5,82,81,83,75,81,81,89,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,5,94,81,81,87,83,88,88,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Lainnya,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,0,81,81,79,75,80,87,89,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,CUKUP
+P,0,92,81,81,79,81,85,90,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,0,94,82,86,84,84,86,89,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,5,91,81,81,80,83,84,90,87,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,S1,Karyawan Swasta,Cukup Rendah,Tidak,5,Rumah Sendiri,BAIK
+P,4,91,81,81,81,84,89,89,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,BAIK
+P,5,95,82,84,84,83,86,87,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Tinggi,SMA sederajat,Wiraswasta,Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,0,95,81,84,80,82,87,89,83,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Lainnya,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,1,93,81,82,79,81,84,90,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMP sederajat,Buruh,Rendah,Ya,7,Sewa,CUKUP
+P,5,91,81,84,85,84,82,90,87,B,tidak,tidak,negeri,kota,Kawin,S1,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,81,81,80,75,80,84,88,82,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Lainnya,Sangat Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Menumpang,CUKUP
+P,3,94,81,81,79,82,84,90,84,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,CUKUP
+P,3,90,81,84,76,79,87,91,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Lainnya,Rendah,SMP sederajat,Lainnya,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,5,83,81,82,82,84,84,90,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Tinggi,SD sederajat,Wiraswasta,Tinggi,Tidak,5,Rumah Sendiri,CUKUP
+P,1,84,81,87,81,81,86,90,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,5,Sewa,BAIK
+P,5,84,81,83,84,84,85,90,86,B,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,95,82,83,80,84,88,89,85,B,tidak,tidak,negeri,kota,Kawin,D3,Wiraswasta,Cukup Rendah,D3,Pedagang Kecil,Cukup Rendah,Tidak,5,Sewa,BAIK
+P,4,82,81,79,79,81,84,89,83,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,CUKUP
+P,3,95,81,83,82,85,88,89,84,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,3,95,82,86,89,85,89,89,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,4,82,81,85,87,83,91,88,86,B,tidak,tidak,negeri,kota,Cerai Mati,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Menumpang,BAIK
+P,4,82,81,82,77,82,86,88,79,C,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Buruh,Cukup Rendah,Tidak,5,Sewa,CUKUP
+P,2,91,82,83,80,81,87,89,82,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Rumah Sendiri,CUKUP
+P,7,81,81,81,77,80,85,89,80,C,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Wiraswasta,Cukup Tinggi,Tidak,4,Sewa,CUKUP
+P,3,92,81,87,86,84,91,88,86,A,tidak,tidak,negeri,kota,Kawin,D3,Wiraswasta,Cukup Rendah,SMA sederajat,Wiraswasta,Cukup Tinggi,Tidak,6,Sewa,BAIK
+P,3,85,81,82,82,81,88,92,81,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Rumah Sendiri,CUKUP
+P,5,84,82,85,83,81,87,88,83,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,1,82,81,82,77,80,87,88,81,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,Putus SD,Buruh,Rendah,Tidak,4,Sewa,CUKUP
+P,0,95,83,85,84,81,89,89,86,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Rendah,SD sederajat,Buruh,Rendah,Tidak,5,Sewa,BAIK
+P,3,83,82,85,83,81,88,90,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,3,83,81,87,84,82,90,89,87,B,tidak,ya,negeri,kota,Kawin,SD sederajat,Wiraswasta,Rendah,SMP sederajat,Buruh,Rendah,Tidak,4,Sewa,BAIK
+P,1,83,81,82,83,84,92,88,86,B,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,D1,Karyawan Swasta,Cukup Tinggi,Tidak,3,Menumpang,BAIK
+P,3,94,82,87,93,85,92,90,87,A,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Wirausaha,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,4,90,81,82,84,81,89,88,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,BAIK
+P,1,92,83,84,88,84,90,88,88,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Buruh,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,0,93,81,87,85,84,89,89,86,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,91,81,81,83,82,87,90,83,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,CUKUP
+P,4,91,81,84,84,83,89,90,84,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SMP sederajat,Lainnya,Cukup Rendah,Tidak,5,Sewa,BAIK
+P,3,83,82,82,83,81,88,89,84,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,0,82,81,85,86,84,90,89,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,1,92,82,86,84,84,89,88,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Pedagang Kecil,Cukup Rendah,Tidak,5,Rumah Sendiri,BAIK
+P,1,92,82,86,87,84,89,89,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,86,82,86,87,84,89,90,90,A,tidak,tidak,swasta,kota,Kawin,S1,PNSTNIPolri,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,83,81,87,87,84,90,88,89,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wirausaha,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,3,95,82,83,86,82,90,88,87,A,tidak,ya,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,1,94,82,84,84,82,90,89,87,A,tidak,ya,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,BAIK
+P,1,90,81,81,84,81,86,89,83,B,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Buruh,Cukup Rendah,SMP sederajat,Lainnya,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,3,86,81,84,86,81,90,89,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,1,93,82,84,82,82,89,88,86,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SD sederajat,Lainnya,Cukup Rendah,Tidak,5,Menumpang,BAIK
+P,3,84,81,84,83,85,91,89,89,A,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Rendah,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,1,82,82,82,86,82,88,89,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SD sederajat,Buruh,Cukup Rendah,Ya,4,Sewa,CUKUP
+P,0,84,81,82,82,83,89,88,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,3,93,81,83,81,82,88,88,83,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,CUKUP
+P,0,92,82,85,88,83,88,87,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,92,81,86,84,81,87,87,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,2,86,85,88,78,90,86,86,89,B,ya,tidak,negeri,kabupaten,Kawin,SMA sederajat,Buruh,Cukup Rendah,SD sederajat,Pedagang Kecil,Sangat Rendah,Tidak,4,Sewa,BAIK
+P,1,84,87,88,86,75,88,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMA sederajat,Karyawan Swasta,Rendah,Tidak,4,Sewa,BAIK
+L,2,83,86,88,88,87,87,85,88,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,D3,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,BAIK
+P,5,89,85,89,89,84,85,86,88,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Rendah,Tidak,4,Sewa,BAIK
+P,0,89,84,90,92,87,85,86,89,A,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Menumpang,BAIK
+P,4,83,85,89,88,88,86,86,87,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wiraswasta,Rendah,SD sederajat,Karyawan Swasta,Rendah,Tidak,5,Sewa,BAIK
+L,3,87,82,87,77,81,84,86,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Menumpang,CUKUP
+P,3,90,87,85,88,84,87,85,88,B,ya,tidak,negeri,kabupaten,Cerai Mati,Tidak sekolah,Sudah Meninggal,Tidak Berpenghasilan,S1,PNSTNIPolri,Cukup Tinggi,Tidak,5,Menumpang,BAIK
+P,0,85,87,88,78,82,86,86,88,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+P,1,96,86,89,92,87,89,86,90,A,tidak,tidak,negeri,kota,Kawin,D1,Karyawan Swasta,Cukup Tinggi,D1,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,1,85,87,89,84,81,86,86,87,B,ya,tidak,negeri,kota,Kawin,S1,Buruh,Cukup Rendah,SMP sederajat,Karyawan Swasta,Rendah,Tidak,4,Sewa,BAIK
+P,1,90,86,86,95,84,86,87,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,98,85,88,87,83,86,86,88,A,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,82,84,87,77,83,85,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Sangat Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Menumpang,CUKUP
+P,0,96,87,90,85,84,88,86,88,A,ya,tidak,negeri,kabupaten,Kawin,SD sederajat,Pedagang Kecil,Sangat Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,BAIK
+P,4,89,86,88,78,86,86,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMP sederajat,Buruh,Rendah,Tidak,4,Sewa,BAIK
+P,0,89,83,91,88,87,87,87,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,5,Sewa,BAIK
+P,4,85,83,88,79,87,89,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,BAIK
+P,4,89,84,88,78,83,86,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Rumah Sendiri,BAIK
+L,0,97,85,87,81,86,86,86,88,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,91,85,88,87,86,86,86,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMA sederajat,Buruh,Rendah,Tidak,3,Sewa,BAIK
+P,0,90,85,88,92,85,85,86,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMA sederajat,Buruh,Rendah,Tidak,3,Sewa,BAIK
+P,5,86,86,90,80,83,89,86,89,B,tidak,tidak,negeri,kota,Kawin,S2,PNSTNIPolri,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,2,86,85,87,81,84,86,86,89,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,5,84,83,85,78,83,85,86,88,B,ya,ya,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+L,4,89,86,88,81,83,86,85,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Wiraswasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,0,92,87,89,90,86,86,86,89,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,80,81,86,77,81,87,84,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Rendah,SMA sederajat,Wirausaha,Rendah,Tidak,6,Sewa,CUKUP
+P,5,84,87,87,79,81,86,86,88,B,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,S1,Wiraswasta,Cukup Rendah,Tidak,4,Rumah Sendiri,CUKUP
+P,1,83,84,88,79,86,86,87,89,B,tidak,tidak,swasta,kota,Cerai Mati,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,SD sederajat,Sudah Meninggal,Tidak Berpenghasilan,Ya,5,Menumpang,BAIK
+P,4,90,84,88,85,85,86,86,89,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,2,84,84,87,77,82,84,85,86,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,5,86,85,85,78,84,83,86,86,B,tidak,tidak,negeri,kabupaten,Cerai Mati,SMA sederajat,Karyawan Swasta,Cukup Rendah,S1,Sudah Meninggal,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,0,87,83,87,78,87,89,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+L,2,87,87,88,82,84,86,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,D3,Karyawan Swasta,Rendah,Tidak,4,Sewa,BAIK
+P,0,88,86,84,92,85,86,86,88,B,ya,tidak,negeri,kabupaten,Kawin,D3,Wiraswasta,Cukup Rendah,D3,Wiraswasta,Cukup Rendah,Tidak,5,Sewa,BAIK
+L,5,81,86,87,79,89,87,87,90,B,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+L,5,84,84,91,82,90,87,84,90,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,2,82,84,89,88,89,85,89,89,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,85,85,91,82,90,88,92,90,A,tidak,tidak,negeri,kabupaten,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Pedagang Kecil,Sangat Rendah,Ya,5,Sewa,BAIK
+P,1,83,82,89,89,88,88,92,89,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Lainnya,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,1,82,85,89,89,89,85,89,88,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Rendah,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,BAIK
+P,1,80,82,87,78,91,85,87,88,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Buruh,Cukup Rendah,SMP sederajat,Buruh,Rendah,Ya,4,Sewa,CUKUP
+L,1,83,84,86,80,89,86,87,88,B,tidak,ya,negeri,kota,Kawin,D3,Wiraswasta,Cukup Tinggi,SMP sederajat,Wiraswasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,BAIK
+L,1,85,84,89,91,89,87,89,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,BAIK
+P,0,82,83,89,94,88,87,89,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,2,81,82,88,78,88,86,84,88,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,0,84,86,89,92,88,87,92,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,87,83,91,83,89,85,89,89,A,tidak,ya,negeri,kota,Kawin,SMP sederajat,Pedagang Kecil,Rendah,SMP sederajat,Pedagang Kecil,Rendah,Tidak,5,Sewa,BAIK
+P,1,84,86,90,80,90,87,92,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,0,88,83,91,89,90,88,89,89,A,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,S1,Pedagang Kecil,Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,0,86,83,89,83,88,85,84,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+L,5,85,81,90,85,88,85,89,90,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Wiraswasta,Rendah,Tidak,5,Sewa,BAIK
+P,3,82,84,88,81,89,82,89,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,84,83,89,93,90,86,86,88,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wirausaha,Cukup Rendah,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,83,84,87,84,88,87,89,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,2,86,86,90,77,90,87,91,88,B,ya,tidak,negeri,kabupaten,Kawin,SMP sederajat,Wiraswasta,Rendah,SMP sederajat,Buruh,Rendah,Tidak,6,Sewa,BAIK
+P,5,83,87,90,86,88,87,86,87,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,84,85,88,88,90,86,91,88,A,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,S1,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,1,80,83,88,78,90,87,84,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+L,3,83,84,87,81,88,84,89,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,85,86,89,91,89,86,91,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+L,1,83,84,86,92,90,85,89,89,A,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,87,85,88,91,88,86,91,88,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,5,83,84,86,78,88,85,89,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Rendah,SMA sederajat,Pedagang Kecil,Cukup Rendah,Ya,5,Sewa,BAIK
+P,5,82,84,88,82,89,87,86,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,0,87,85,90,87,90,87,89,89,A,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Menumpang,BAIK
+P,3,87,86,91,78,91,86,89,88,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,82,81,85,79,87,86,86,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,2,83,85,87,89,88,85,89,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,82,85,87,83,90,86,89,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+L,3,86,83,86,81,87,86,86,88,C,ya,tidak,negeri,kota,Kawin,SMP / sederajat,Wiraswasta,Sangat Rendah,SMP / sederajat,Wiraswasta,Cukup Rendah,Tidak,5,Menumpang,BAIK
+P,4,80,85,88,78,86,84,87,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Sangat Rendah,SMP sederajat,Wiraswasta,Cukup Rendah,Tidak,5,Menumpang,BAIK
+P,4,82,84,88,78,88,86,89,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Tinggi,SD sederajat,Pedagang Kecil,Cukup Rendah,Tidak,5,Rumah Sendiri,CUKUP
+P,0,87,84,89,84,90,86,89,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,BAIK
+P,1,88,82,88,78,89,86,86,86,A,tidak,ya,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,BAIK
+P,1,79,82,85,78,82,85,83,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,5,81,82,86,78,84,86,83,85,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,3,81,84,88,78,87,85,83,87,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Sangat Rendah,SMA sederajat,Pedagang Kecil,Sangat Rendah,Tidak,4,Menumpang,CUKUP
+P,5,88,84,88,79,90,86,89,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,5,84,83,84,78,84,84,85,84,B,tidak,ya,swasta,kota,Cerai Mati,SD sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMP sederajat,Tidak bekerja,Cukup Rendah,Ya,7,Menumpang,BAIK
+P,4,81,84,83,78,82,84,84,86,B,tidak,tidak,negeri,kota,Cerai Mati,Putus SD,Wiraswasta,Rendah,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+L,1,84,84,86,79,82,84,82,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,3,80,82,84,77,85,83,85,84,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,CUKUP
+P,1,86,83,88,81,88,86,89,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Sewa,CUKUP
+P,2,83,84,85,78,86,84,83,85,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Rumah Sendiri,BAIK
+P,1,88,84,88,92,88,86,85,89,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,7,Sewa,CUKUP
+P,0,87,82,87,79,89,86,85,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,3,80,83,83,78,88,84,84,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMP sederajat,Karyawan Swasta,Cukup Rendah,Ya,5,Sewa,BAIK
+P,1,90,82,88,77,84,86,86,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Pedagang Kecil,Sangat Rendah,SD sederajat,Pedagang Kecil,Sangat Rendah,Tidak,3,Menumpang,CUKUP
+P,0,94,83,86,78,88,85,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+L,2,85,82,86,80,90,83,87,86,B,ya,ya,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,7,Sewa,BAIK
+P,0,84,84,85,77,86,83,87,85,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Rendah,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,5,Sewa,CUKUP
+P,3,85,85,91,77,87,86,86,88,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,CUKUP
+P,1,83,82,88,78,87,85,84,88,B,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,5,Sewa,BAIK
+P,0,86,84,85,77,84,84,82,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,0,86,86,89,79,89,85,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMA sederajat,Wiraswasta,Rendah,Tidak,3,Sewa,CUKUP
+P,3,84,83,85,78,86,85,82,86,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Buruh,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,BAIK
+P,1,84,81,88,78,87,85,84,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,CUKUP
+P,0,84,85,91,78,89,86,88,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Sangat Rendah,SMP sederajat,Wirausaha,Sangat Rendah,Ya,4,Menumpang,CUKUP
+P,5,79,80,84,77,87,83,82,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+L,2,87,84,85,78,87,86,84,87,B,tidak,tidak,negeri,kota,Kawin,S1,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,CUKUP
+P,1,85,84,86,78,86,85,82,87,B,tidak,tidak,negeri,kabupaten,Kawin,SD sederajat,Buruh,Rendah,Putus SD,Wiraswasta,Sangat Rendah,Ya,5,Sewa,CUKUP
+P,1,88,81,87,77,87,84,84,84,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,5,90,84,87,90,89,87,88,88,B,tidak,tidak,negeri,kota,Cerai Mati,SMP sederajat,Sudah Meninggal,Tidak Berpenghasilan,SD sederajat,Buruh,Cukup Rendah,Ya,4,Menumpang,CUKUP
+P,0,88,84,85,78,86,86,88,87,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Menumpang,BAIK
+P,4,89,83,89,79,86,86,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMA sederajat,Wiraswasta,Rendah,Tidak,4,Sewa,BAIK
+P,1,84,84,86,84,88,86,84,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,83,80,83,81,80,83,83,85,B,tidak,tidak,swasta,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Rendah,D3,Karyawan Swasta,Cukup Tinggi,Tidak,3,Sewa,CUKUP
+P,2,83,84,88,82,88,85,86,87,B,tidak,tidak,swasta,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+P,4,80,81,80,80,80,81,83,85,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Karyawan Swasta,Sangat Rendah,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,Ya,5,Menumpang,CUKUP
+P,0,84,84,89,82,89,87,86,90,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Wirausaha,Rendah,SMA sederajat,Wirausaha,Sangat Rendah,Tidak,4,Sewa,BAIK
+P,2,82,82,88,80,86,85,85,87,B,tidak,tidak,swasta,kota,Cerai Mati,Putus SD,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,Tidak,6,Menumpang,CUKUP
+L,1,82,82,86,81,87,84,85,85,B,ya,ya,negeri,kota,Kawin,S1,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+P,4,87,82,88,81,89,80,85,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,S1,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,CUKUP
+P,4,82,81,84,81,88,84,85,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,0,78,82,83,78,80,81,84,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Sangat Rendah,SD sederajat,Buruh,Rendah,Ya,3,Menumpang,CUKUP
+P,1,78,82,79,80,80,81,84,85,B,tidak,tidak,swasta,kabupaten,Kawin,SD sederajat,Pedagang Kecil,Sangat Rendah,SD sederajat,Pedagang Kecil,Sangat Rendah,Ya,6,Menumpang,CUKUP
+P,5,82,81,88,81,86,88,84,87,B,tidak,tidak,swasta,kota,Kawin,S1,Pedagang Kecil,Cukup Rendah,D3,Pedagang Kecil,Cukup Rendah,Tidak,8,Sewa,CUKUP
+P,3,81,82,84,83,88,86,85,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,5,81,83,87,79,88,85,85,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Cukup Tinggi,SMP sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,CUKUP
+P,2,84,84,88,83,85,84,85,87,B,tidak,tidak,swasta,kabupaten,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SD sederajat,Wiraswasta,Rendah,Tidak,4,Sewa,BAIK
+P,0,85,85,92,84,87,87,86,89,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SD sederajat,Buruh,Rendah,Ya,4,Sewa,BAIK
+L,1,83,82,88,81,84,86,86,87,B,ya,ya,swasta,kota,Kawin,D3,Wiraswasta,Tinggi,D3,Karyawan Swasta,Tinggi,Tidak,5,Rumah Sendiri,CUKUP
+P,4,80,83,86,83,87,89,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,1,89,82,91,83,90,86,86,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+L,4,86,80,86,78,88,85,84,85,B,ya,ya,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Wirausaha,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,3,83,84,88,82,88,81,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,86,86,88,83,88,87,86,90,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Wirausaha,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,1,82,82,86,81,88,84,85,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,CUKUP
+P,5,83,80,86,82,87,80,86,89,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,CUKUP
+L,5,79,80,88,79,88,84,86,86,B,tidak,tidak,swasta,kota,Kawin,SD sederajat,Buruh,Cukup Rendah,SMP sederajat,Buruh,Rendah,Ya,9,Sewa,CUKUP
+P,5,83,84,89,83,87,85,86,88,B,tidak,tidak,negeri,kabupaten,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,80,82,85,82,85,81,84,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,CUKUP
+P,0,85,81,90,84,88,86,85,87,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Pedagang Kecil,Sangat Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Menumpang,BAIK
+P,1,83,84,91,82,88,88,86,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Rendah,Tidak sekolah,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,5,82,83,88,81,89,86,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Rendah,SMA sederajat,Wirausaha,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,1,80,84,87,83,89,86,85,88,B,tidak,tidak,negeri,kota,Cerai Mati,SMP sederajat,Sudah Meninggal,Tidak Berpenghasilan,Putus SD,Pedagang Kecil,Rendah,Ya,4,Menumpang,BAIK
+P,3,87,84,87,83,88,84,85,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,5,84,81,84,85,89,84,85,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Sangat Rendah,S1,Karyawan Swasta,Rendah,Tidak,3,Menumpang,CUKUP
+P,2,91,84,87,82,89,85,86,88,B,tidak,ya,negeri,kota,Cerai Mati,SMA sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Sudah Meninggal,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,85,84,88,82,89,85,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,2,84,81,85,83,90,80,85,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,1,76,84,87,83,88,79,85,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,2,86,84,87,85,89,86,86,87,B,tidak,ya,negeri,kabupaten,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,5,84,84,84,85,87,79,86,86,B,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+L,3,76,82,85,83,86,85,85,85,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,0,87,85,86,85,87,83,85,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,85,84,86,83,87,83,85,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Sangat Rendah,SMP sederajat,Wirausaha,Rendah,Tidak,5,Menumpang,BAIK
+L,4,78,82,81,79,79,85,83,84,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMP sederajat,Wiraswasta,Sangat Rendah,Tidak,4,Sewa,CUKUP
+P,2,83,84,86,81,88,82,86,87,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Karyawan Swasta,Cukup Rendah,Putus SD,Karyawan Swasta,Rendah,Tidak,4,Sewa,CUKUP
+P,5,85,82,85,83,87,82,86,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+P,4,83,82,85,85,87,87,86,85,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+L,5,82,82,85,80,87,81,85,85,B,ya,ya,negeri,kota,Cerai Mati,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,Tidak,6,Menumpang,CUKUP
+P,3,80,83,84,79,86,80,83,85,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Sewa,CUKUP
+P,4,85,83,85,84,87,83,85,88,B,tidak,tidak,negeri,kabupaten,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,0,87,84,87,83,88,83,86,86,B,tidak,tidak,negeri,kota,Kawin,S1,Wirausaha,Rendah,SMA sederajat,Lainnya,Sangat Rendah,Tidak,5,Sewa,BAIK
+P,3,85,84,84,83,88,83,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Sangat Rendah,SMA sederajat,Karyawan Swasta,Sangat Rendah,Tidak,4,Menumpang,CUKUP
+P,0,82,85,84,84,85,83,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,0,84,83,85,84,84,82,85,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,0,88,84,86,83,88,83,86,86,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Wiraswasta,Cukup Tinggi,Tidak,6,Rumah Sendiri,BAIK
+P,2,83,83,88,83,89,80,85,86,B,tidak,ya,negeri,kota,Cerai Mati,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,CUKUP
+L,1,92,81,87,84,85,87,86,88,B,ya,tidak,negeri,kabupaten,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,4,87,83,86,85,87,86,85,86,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Buruh,Sangat Rendah,Tidak,4,Sewa,BAIK
+P,1,87,84,85,83,86,84,85,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Wiraswasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,1,81,84,83,84,84,86,85,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,3,81,81,88,86,88,86,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,3,84,82,85,84,88,88,85,86,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,D3,Pedagang Kecil,Cukup Tinggi,Tidak,5,Rumah Sendiri,BAIK
+P,4,81,83,87,83,88,87,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,79,82,87,89,87,86,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,82,82,86,85,88,84,86,87,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMA sederajat,Pedagang Kecil,Cukup Rendah,Tidak,4,Menumpang,BAIK
+P,0,82,86,84,81,87,85,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,4,81,84,84,84,86,85,86,87,B,tidak,tidak,swasta,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Wiraswasta,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,4,80,83,85,80,87,84,85,85,B,tidak,tidak,swasta,kota,Kawin,Tidak sekolah,Lainnya,Sangat Rendah,SMP sederajat,Lainnya,Sangat Rendah,Tidak,6,Menumpang,CUKUP
+P,4,87,84,87,85,85,87,85,86,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Sangat Rendah,Putus SD,Lainnya,Sangat Rendah,Tidak,4,Menumpang,BAIK
+P,1,80,82,87,85,88,86,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,5,83,83,83,81,83,82,86,86,B,tidak,tidak,swasta,kabupaten,Kawin,SMP sederajat,Buruh,Cukup Rendah,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,0,83,84,85,84,88,82,86,85,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Rumah Sendiri,CUKUP
+L,5,76,76,80,77,82,75,83,83,C,ya,tidak,swasta,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,1,88,83,82,82,85,82,86,88,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Sangat Rendah,SD sederajat,Lainnya,Sangat Rendah,Ya,6,Menumpang,CUKUP
+P,3,81,81,84,82,83,83,84,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,CUKUP
+P,4,89,82,85,82,86,84,86,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Rendah,SD sederajat,Wiraswasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,3,75,75,79,76,75,75,78,82,C,tidak,tidak,swasta,kota,Cerai Mati,SD sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Menumpang,CUKUP
+P,3,89,83,85,84,84,83,86,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Buruh,Sangat Rendah,Putus SD,Buruh,Sangat Rendah,Tidak,4,Menumpang,BAIK
+P,3,89,83,88,83,88,85,86,89,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,5,85,82,85,82,82,84,84,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Sangat Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Menumpang,CUKUP
+P,1,86,83,82,79,87,83,85,87,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Rendah,SMA sederajat,Wirausaha,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,2,84,83,84,79,80,75,85,85,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Wiraswasta,Rendah,SMA sederajat,Wiraswasta,Rendah,Tidak,4,Sewa,CUKUP
+P,3,91,83,84,83,86,84,86,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,81,83,83,82,83,83,86,85,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Buruh,Rendah,Ya,4,Sewa,CUKUP
+P,2,84,83,84,84,85,85,86,87,B,tidak,tidak,negeri,kabupaten,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SD sederajat,Karyawan Swasta,Rendah,Tidak,6,Sewa,CUKUP
+P,1,90,83,82,84,85,81,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Lainnya,Sangat Rendah,Ya,4,Rumah Sendiri,CUKUP
+P,3,91,83,83,84,88,86,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Ya,5,Rumah Sendiri,BAIK
+P,0,83,82,84,83,87,82,86,88,B,tidak,tidak,negeri,kota,Kawin,S1,Pensiunan,Rendah,SMA sederajat,Pedagang Kecil,Sangat Rendah,Tidak,5,Sewa,CUKUP
+P,2,86,83,84,82,84,83,85,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,1,86,82,80,81,85,81,85,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Buruh,Rendah,Tidak,5,Sewa,CUKUP
+P,5,86,83,84,84,88,85,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,D3,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+L,0,85,81,81,79,88,81,80,84,B,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,S1,Wiraswasta,Cukup Rendah,Tidak,6,Rumah Sendiri,CUKUP
+P,1,87,83,83,81,86,85,85,88,B,tidak,ya,negeri,kota,Kawin,D3,Wiraswasta,Sangat Rendah,S1,Karyawan Swasta,Cukup Tinggi,Tidak,4,Menumpang,CUKUP
+P,2,88,84,84,83,86,84,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Sangat Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,BAIK
+P,4,87,81,86,83,87,84,86,87,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Wiraswasta,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,BAIK
+P,3,87,83,81,84,88,83,85,86,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Wirausaha,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,2,89,84,86,83,84,82,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,81,81,82,82,83,81,84,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,CUKUP
+P,1,87,82,82,83,87,82,85,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,CUKUP
+P,5,87,84,83,84,87,83,86,87,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,2,80,82,87,83,87,85,85,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Pedagang Kecil,Sangat Rendah,Tidak,4,Rumah Sendiri,CUKUP
+P,2,85,83,83,84,87,86,85,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Rendah,SMP sederajat,Pedagang Kecil,Rendah,Tidak,5,Sewa,BAIK
+P,2,90,83,84,83,86,84,85,86,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,Buruh,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,1,88,82,81,83,82,83,84,87,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,CUKUP
+L,6,77,77,77,79,83,75,80,82,C,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Wiraswasta,Cukup Tinggi,Ya,6,Rumah Sendiri,CUKUP
+P,3,77,77,80,78,88,78,79,83,C,tidak,tidak,swasta,kota,Kawin,D3,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,2,90,83,90,85,89,84,86,88,B,tidak,ya,negeri,kota,Kawin,S1,PNSTNIPolri,Cukup Tinggi,S1,Karyawan Swasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,BAIK
+P,5,81,85,88,85,88,88,86,86,B,tidak,tidak,negeri,kota,Cerai Mati,D1,Sudah Meninggal,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Menumpang,BAIK
+P,5,87,86,86,86,85,86,86,85,B,tidak,tidak,negeri,kota,Kawin,S1,Wirausaha,Cukup Tinggi,SMA sederajat,Wirausaha,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,2,84,89,86,86,84,84,85,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Karyawan Swasta,Sangat Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,1,85,90,91,86,88,85,86,88,A,ya,tidak,swasta,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,5,83,86,89,86,85,85,86,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Wirausaha,Cukup Tinggi,Tidak,5,Sewa,BAIK
+P,0,85,86,87,86,90,85,86,88,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Buruh,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,0,84,86,91,86,88,86,86,90,A,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,77,86,86,86,90,80,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,3,85,85,87,86,87,85,85,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,87,84,87,86,83,83,84,86,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMA sederajat,Karyawan Swasta,Rendah,Tidak,4,Menumpang,CUKUP
+P,2,84,86,89,86,89,86,86,90,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,82,84,85,84,82,81,85,84,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,2,82,85,89,86,88,85,84,87,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,S1,Karyawan Swasta,Rendah,Tidak,5,Rumah Sendiri,BAIK
+P,1,85,85,87,86,88,84,85,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Pedagang Kecil,Sangat Rendah,Tidak,6,Menumpang,BAIK
+P,1,85,87,90,86,87,84,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,1,85,85,90,86,87,86,86,88,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Buruh,Rendah,Tidak,4,Sewa,BAIK
+P,1,85,88,90,86,89,87,86,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Sangat Rendah,SMP sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Menumpang,BAIK
+P,4,83,86,90,86,89,86,85,89,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SD sederajat,Buruh,Rendah,Tidak,4,Sewa,BAIK
+P,0,79,85,90,82,87,83,85,87,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,CUKUP
+P,4,84,84,89,82,87,79,84,87,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,D3,Wirausaha,Rendah,Tidak,4,Rumah Sendiri,CUKUP
+P,2,84,84,87,82,86,83,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,4,84,85,88,84,85,83,85,89,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,83,86,90,83,88,80,86,88,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Menumpang,BAIK
+P,2,82,88,89,83,87,83,86,88,B,tidak,tidak,swasta,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,83,85,90,85,87,83,85,88,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SD sederajat,Buruh,Cukup Rendah,Tidak,3,Rumah Sendiri,BAIK
+P,0,84,84,90,83,89,86,85,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wirausaha,Cukup Rendah,D3,Karyawan Swasta,Cukup Rendah,Tidak,5,Sewa,BAIK
+P,1,83,84,88,83,83,82,85,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,2,82,84,90,81,87,81,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,3,86,87,91,83,89,84,86,89,B,tidak,ya,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,86,86,90,83,87,84,86,87,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,SD sederajat,Karyawan Swasta,Cukup Rendah,Ya,4,Menumpang,BAIK
+P,5,90,86,89,84,87,84,86,90,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,5,83,89,90,82,88,85,86,88,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wirausaha,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,3,86,85,87,84,87,84,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Pedagang Kecil,Rendah,Tidak,6,Rumah Sendiri,BAIK
+P,4,87,85,91,83,87,83,86,89,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Sangat Rendah,SMP sederajat,Pedagang Kecil,Sangat Rendah,Tidak,4,Menumpang,BAIK
+P,0,85,84,91,85,88,86,86,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Buruh,Sangat Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,BAIK
+P,3,87,86,93,83,87,82,86,90,B,tidak,tidak,negeri,kota,Cerai Mati,S1,Sudah Meninggal,Tidak Berpenghasilan,D1,Karyawan Swasta,Cukup Tinggi,Tidak,3,Menumpang,BAIK
+P,2,81,86,89,86,89,88,86,89,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SMA sederajat,Karyawan Swasta,Rendah,Tidak,4,Sewa,BAIK
+P,2,82,86,88,86,83,82,84,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,CUKUP
+P,2,81,86,86,86,84,83,85,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SMP sederajat,Pedagang Kecil,Rendah,Tidak,4,Sewa,CUKUP
+P,0,80,86,86,86,84,85,85,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Rendah,SMA sederajat,Wirausaha,Rendah,Ya,5,Sewa,CUKUP
+P,2,83,85,85,86,88,86,85,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,S1,PNSTNIPolri,Cukup Tinggi,Tidak,5,Sewa,BAIK
+P,1,81,86,89,86,89,85,86,90,B,tidak,tidak,negeri,kota,Kawin,Tidak sekolah,Lainnya,Cukup Tinggi,D1,Karyawan Swasta,Cukup Rendah,Tidak,5,Rumah Sendiri,BAIK
+P,1,81,86,87,86,84,84,85,88,B,tidak,tidak,swasta,kota,Kawin,Tidak sekolah,Karyawan Swasta,Cukup Rendah,Tidak sekolah,Karyawan Swasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,4,76,78,86,84,83,80,85,81,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,0,87,82,88,86,87,83,85,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,2,82,86,86,86,86,84,86,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,0,85,86,85,86,87,87,86,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,5,Sewa,BAIK
+P,3,78,86,84,86,88,84,85,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,0,77,84,84,86,81,86,86,85,B,tidak,tidak,negeri,kota,Cerai Mati,SMP sederajat,Sudah Meninggal,Tidak Berpenghasilan,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Menumpang,CUKUP
+P,2,83,86,89,86,89,84,86,89,B,ya,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,0,88,85,89,84,89,84,86,88,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Rumah Sendiri,BAIK
+P,5,77,85,84,84,85,82,83,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Rendah,SMA sederajat,Wiraswasta,Rendah,Tidak,3,Sewa,CUKUP
+P,4,83,85,90,86,88,85,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,BAIK
+P,0,79,85,86,86,87,84,84,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,3,80,85,85,83,88,84,84,87,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Putus SD,Buruh,Rendah,Ya,5,Menumpang,CUKUP
+P,1,82,87,91,83,88,87,86,88,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Buruh,Rendah,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,BAIK
+P,0,80,86,89,83,87,82,86,86,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Sangat Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Menumpang,CUKUP
+P,2,82,86,89,83,88,85,85,87,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SMP sederajat,Buruh,Rendah,Ya,4,Sewa,BAIK
+P,2,86,82,89,83,87,82,86,86,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMP sederajat,Wiraswasta,Rendah,Tidak,6,Sewa,BAIK
+P,0,79,86,87,83,87,83,86,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Sewa,CUKUP
+P,1,83,86,88,83,87,85,86,88,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Buruh,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,BAIK
+P,0,81,84,92,83,88,84,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,3,Sewa,BAIK
+P,0,82,87,90,83,87,86,86,89,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,1,85,86,90,83,88,86,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SD sederajat,Lainnya,Tidak Berpenghasilan,Ya,5,Sewa,BAIK
+P,2,83,85,88,83,87,83,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,PNSTNIPolri,Cukup Tinggi,S1,Wiraswasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,BAIK
+P,3,75,86,87,83,85,80,86,85,B,tidak,tidak,swasta,kota,Kawin,SD sederajat,Buruh,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,CUKUP
+P,2,82,86,88,83,88,82,86,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,6,Sewa,BAIK
+P,5,82,91,89,83,88,82,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,0,82,86,88,83,88,84,86,89,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Wirausaha,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,82,86,89,83,88,86,85,90,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,BAIK
+P,1,82,86,87,83,87,81,85,88,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Rumah Sendiri,CUKUP
+P,2,83,86,87,82,89,86,86,87,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Ya,4,Rumah Sendiri,BAIK
+P,4,81,84,87,81,88,83,84,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Pedagang Kecil,Rendah,Tidak,4,Sewa,CUKUP
+P,0,83,86,90,82,89,86,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,2,80,86,88,84,85,82,85,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,0,100,86,91,85,89,86,86,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Sewa,BAIK
+P,1,92,87,88,85,88,86,85,88,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,4,85,85,88,84,90,86,86,88,B,tidak,tidak,negeri,kota,Kawin,D3,Wirausaha,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,3,83,85,87,81,88,86,84,88,B,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,3,83,85,90,90,86,87,85,89,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Karyawan Swasta,Rendah,Tidak,4,Sewa,BAIK
+P,2,85,84,86,83,86,83,85,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,3,Sewa,CUKUP
+P,0,83,86,93,89,89,86,85,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Lainnya,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,0,95,87,88,85,89,86,85,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,0,87,86,88,88,88,86,86,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,S1,Karyawan Swasta,Cukup Tinggi,Tidak,7,Sewa,BAIK
+P,0,80,86,89,84,87,87,85,89,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Rumah Sendiri,BAIK
+P,0,84,85,87,89,87,84,85,88,B,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Rendah,S1,Pedagang Kecil,Cukup Rendah,Tidak,4,Sewa,BAIK
+L,1,83,88,86,82,89,84,83,86,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Pedagang Kecil,Rendah,Tidak,5,Menumpang,BAIK
+P,1,83,90,90,87,89,86,85,91,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,5,Sewa,BAIK
+P,5,84,84,88,78,85,83,85,88,B,tidak,tidak,negeri,kota,Cerai Mati,SMP sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMA sederajat,Wiraswasta,Cukup Rendah,Ya,5,Menumpang,CUKUP
+P,2,87,86,90,83,88,86,86,88,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,88,88,88,86,85,84,85,89,B,tidak,tidak,swasta,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,D3,Wiraswasta,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,5,86,85,89,86,88,84,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+L,1,87,86,91,83,89,84,85,90,B,ya,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,S2,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+L,2,86,86,89,83,90,86,86,90,B,ya,tidak,negeri,kota,Kawin,D1,Wiraswasta,Cukup Rendah,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+L,0,88,89,89,87,90,86,85,90,A,ya,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,0,86,86,92,85,90,85,85,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Buruh,Rendah,Tidak,5,Sewa,BAIK
+P,1,87,85,85,75,86,85,85,87,B,tidak,tidak,swasta,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,S1,PNSTNIPolri,Cukup Rendah,Tidak,5,Rumah Sendiri,CUKUP
+P,0,83,90,91,82,90,86,86,90,A,tidak,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Cukup Rendah,S1,Karyawan Swasta,Cukup Rendah,Tidak,5,Sewa,BAIK
+P,0,78,84,86,82,88,82,84,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,CUKUP
+P,1,84,86,91,87,89,86,85,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,BAIK
+P,0,85,85,86,84,87,86,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,84,86,91,86,88,85,86,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,1,88,86,90,85,89,85,85,90,A,tidak,tidak,negeri,kota,Kawin,S1,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Rumah Sendiri,BAIK
+P,2,82,84,87,83,84,85,85,88,B,tidak,tidak,swasta,kota,Cerai Mati,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,4,83,85,88,83,89,86,85,90,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Sangat Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,BAIK
+P,4,80,86,91,85,90,86,85,90,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,3,87,86,88,83,89,86,85,91,B,tidak,tidak,swasta,kota,Cerai Mati,SMP sederajat,Pensiunan,Cukup Tinggi,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,1,84,85,87,85,88,80,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+L,4,85,87,84,85,87,87,84,87,B,ya,ya,negeri,kabupaten,Kawin,S1,Wiraswasta,Tinggi,D1,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,4,77,84,82,76,83,79,85,85,B,tidak,tidak,swasta,kota,Kawin,Tidak sekolah,Buruh,Sangat Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,3,Menumpang,CUKUP
+P,2,82,84,88,82,88,86,84,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Rendah,SMA sederajat,Pedagang Kecil,Sangat Rendah,Tidak,4,Sewa,BAIK
+P,5,84,85,85,85,90,83,85,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,1,87,85,91,88,90,86,86,90,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,4,82,85,90,82,88,83,86,89,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Pedagang Kecil,Sangat Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,BAIK
+P,5,77,85,85,81,89,81,84,85,B,tidak,tidak,negeri,kota,Kawin,S1,Wiraswasta,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,CUKUP
+P,0,88,89,92,84,90,87,85,89,A,tidak,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+L,4,82,85,83,82,86,82,84,88,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,1,86,89,90,84,90,87,86,89,A,tidak,tidak,swasta,kota,Kawin,S2,PNSTNIPolri,Tinggi,S2,Karyawan Swasta,Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,1,84,89,92,85,90,87,86,89,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,2,83,85,85,78,83,78,84,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SD sederajat,Wirausaha,Cukup Rendah,Ya,4,Sewa,CUKUP
+P,5,84,85,83,80,86,84,84,88,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Pedagang Kecil,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,CUKUP
+P,5,84,85,88,83,85,86,84,88,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,1,81,84,84,80,83,81,83,86,B,tidak,tidak,swasta,kota,Kawin,Putus SD,Buruh,Rendah,Putus SD,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Sewa,CUKUP
+P,4,79,84,86,80,86,81,84,85,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,CUKUP
+L,1,80,88,82,75,84,75,81,84,B,ya,tidak,swasta,kabupaten,Kawin,S1,Karyawan Swasta,Cukup Tinggi,S1,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,CUKUP
+P,5,80,85,87,80,90,84,83,86,B,tidak,tidak,negeri,kota,Kawin,S1,Tidak bekerja,Tidak Berpenghasilan,D3,Wirausaha,Cukup Rendah,Tidak,3,Menumpang,CUKUP
+P,3,81,84,81,78,80,77,86,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Wiraswasta,Cukup Tinggi,Tidak,5,Rumah Sendiri,CUKUP
+P,1,95,86,88,84,89,86,86,89,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SMA sederajat,Lainnya,Sangat Rendah,Tidak,5,Sewa,BAIK
+P,5,87,87,91,82,87,86,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+L,4,87,84,89,80,88,86,85,89,B,ya,tidak,negeri,kota,Kawin,D3,Karyawan Swasta,Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+L,2,85,85,88,84,85,84,85,88,B,ya,ya,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,S1,Wiraswasta,Cukup Rendah,Tidak,4,Menumpang,BAIK
+P,2,84,85,90,79,88,85,84,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,82,84,84,80,86,79,83,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,5,84,84,88,83,90,82,84,87,B,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,2,84,85,88,83,86,86,85,88,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,4,81,87,87,84,90,82,84,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,PNSTNIPolri,Cukup Tinggi,S1,PNSTNIPolri,Cukup Tinggi,Tidak,5,Rumah Sendiri,BAIK
+P,2,83,84,90,81,87,83,84,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Pedagang Kecil,Cukup Rendah,D3,Wiraswasta,Sangat Rendah,Tidak,6,Sewa,BAIK
+P,0,79,84,83,76,87,82,83,86,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,3,79,85,83,78,83,79,84,88,B,tidak,tidak,swasta,kota,Kawin,SD sederajat,Pedagang Kecil,Sangat Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,CUKUP
+P,4,84,87,85,78,85,78,85,86,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wirausaha,Cukup Tinggi,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Rumah Sendiri,CUKUP
+P,3,83,85,87,79,88,84,85,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Putus SD,Buruh,Sangat Rendah,Ya,4,Menumpang,CUKUP
+P,0,80,85,87,82,85,86,85,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Pedagang Kecil,Rendah,Tidak,5,Sewa,CUKUP
+P,1,96,84,89,82,89,86,85,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,SMA sederajat,Wirausaha,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+L,3,82,84,83,85,87,81,81,86,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Buruh,Cukup Rendah,Tidak,5,Menumpang,CUKUP
+P,0,84,84,88,78,82,86,84,88,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Lainnya,Sangat Rendah,Tidak,4,Sewa,CUKUP
+P,2,88,85,88,82,89,86,86,90,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wirausaha,Sangat Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,4,Menumpang,BAIK
+P,1,89,85,91,84,86,86,86,90,A,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,1,82,84,85,79,80,84,86,89,B,tidak,ya,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,CUKUP
+P,1,80,87,89,83,90,87,86,90,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Rumah Sendiri,BAIK
+L,0,93,86,89,84,90,87,86,88,A,tidak,ya,negeri,kota,Cerai Mati,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,SMA sederajat,Wiraswasta,Cukup Tinggi,Tidak,4,Menumpang,BAIK
+L,2,82,85,91,83,86,86,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,0,80,85,82,79,87,83,85,88,B,tidak,tidak,negeri,kota,Kawin,D2,Karyawan Swasta,Cukup Rendah,S1,Karyawan Swasta,Cukup Rendah,Tidak,5,Sewa,CUKUP
+P,0,82,84,89,82,89,86,85,91,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wirausaha,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,81,86,86,80,88,86,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Tinggi,SMA sederajat,PNSTNIPolri,Cukup Tinggi,Tidak,4,Rumah Sendiri,BAIK
+P,2,81,85,89,82,87,86,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Rendah,SMA sederajat,Buruh,Rendah,Ya,4,Sewa,BAIK
+P,5,76,82,82,80,79,79,83,87,C,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,CUKUP
+P,1,88,86,90,83,89,86,86,88,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,4,88,85,88,83,90,86,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Buruh,Cukup Tinggi,Tidak,3,Sewa,BAIK
+P,0,87,86,89,85,90,86,86,90,A,tidak,tidak,negeri,kota,Kawin,D3,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,5,83,86,86,85,89,83,85,90,B,ya,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,3,84,83,86,81,85,83,84,89,B,ya,tidak,negeri,kota,Kawin,SMP sederajat,Pedagang Kecil,Rendah,SD sederajat,Buruh,Sangat Rendah,Tidak,4,Sewa,CUKUP
+P,1,88,89,90,81,89,87,86,90,A,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Wiraswasta,Rendah,SMA sederajat,Wiraswasta,Rendah,Tidak,5,Sewa,BAIK
+P,3,83,85,85,79,80,84,84,88,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,1,85,88,89,87,89,86,86,90,A,tidak,ya,negeri,kota,Kawin,S1,PNSTNIPolri,Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,0,94,86,88,86,90,86,86,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,0,90,86,87,88,90,85,86,90,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,5,86,84,89,85,90,85,85,90,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Rendah,SMA sederajat,Wirausaha,Rendah,Tidak,4,Sewa,BAIK
+P,0,85,86,87,82,89,83,86,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,5,88,85,87,79,89,83,85,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Pedagang Kecil,Cukup Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,1,83,88,86,85,83,80,85,88,B,tidak,tidak,swasta,kota,Kawin,D3,Karyawan Swasta,Cukup Tinggi,S1,Karyawan Swasta,Cukup Rendah,Tidak,4,Rumah Sendiri,CUKUP
+P,2,87,84,86,79,83,86,84,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,PNSTNIPolri,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Rumah Sendiri,CUKUP
+P,3,85,84,86,84,88,85,84,88,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Sewa,BAIK
+P,2,82,84,85,77,79,82,83,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,3,85,84,84,78,87,84,84,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,CUKUP
+P,3,86,86,90,82,90,83,85,88,B,tidak,tidak,negeri,kabupaten,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,S2,Tidak bekerja,Tidak Berpenghasilan,Tidak,3,Sewa,BAIK
+P,5,82,89,89,83,85,85,86,90,B,tidak,tidak,swasta,kota,Kawin,S1,Pensiunan,Cukup Tinggi,D3,Tidak bekerja,Tidak Berpenghasilan,Tidak,6,Rumah Sendiri,BAIK
+P,1,85,86,90,84,90,87,86,92,A,tidak,tidak,negeri,kota,Kawin,S1,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,3,82,89,80,77,84,77,84,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,SMP sederajat,Pedagang Kecil,Cukup Tinggi,Tidak,4,Menumpang,CUKUP
+P,2,84,88,87,84,89,85,85,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Menumpang,BAIK
+P,1,91,87,89,85,90,87,86,91,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,4,81,85,92,85,85,84,84,89,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Ya,4,Sewa,BAIK
+P,5,84,85,92,87,87,85,85,90,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,2,78,85,87,81,85,76,84,87,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,4,Sewa,CUKUP
+P,5,83,86,91,84,87,85,85,90,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMP sederajat,Karyawan Swasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,0,80,84,86,79,81,82,86,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,CUKUP
+P,3,81,84,89,84,84,81,83,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,PNSTNIPolri,Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,CUKUP
+P,7,75,84,80,77,82,75,83,84,C,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+P,0,81,89,91,85,87,86,85,91,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,S1,Pedagang Kecil,Rendah,Tidak,4,Rumah Sendiri,BAIK
+P,2,75,84,82,76,81,83,83,87,B,tidak,tidak,swasta,kabupaten,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,7,Rumah Sendiri,CUKUP
+P,1,80,85,84,79,85,82,86,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wirausaha,Cukup Rendah,SMA sederajat,Wirausaha,Rendah,Tidak,3,Sewa,CUKUP
+P,5,79,84,84,81,80,82,83,87,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Buruh,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,6,Rumah Sendiri,CUKUP
+P,4,79,84,79,75,80,80,80,85,C,tidak,tidak,negeri,kota,Kawin,SD sederajat,Wiraswasta,Cukup Rendah,SD sederajat,Karyawan Swasta,Cukup Rendah,Ya,3,Sewa,CUKUP
+P,1,80,84,85,85,80,81,83,86,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Tinggi,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Rumah Sendiri,CUKUP
+P,3,78,85,84,81,80,80,84,88,B,tidak,tidak,swasta,kabupaten,Kawin,SD sederajat,Buruh,Cukup Rendah,SMP sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,7,Sewa,CUKUP
+P,4,82,85,90,86,86,86,84,90,B,tidak,tidak,negeri,kota,Kawin,Putus SD,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,BAIK
+P,5,79,84,84,82,85,81,84,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,5,Sewa,CUKUP
+P,1,90,86,89,89,89,86,86,90,A,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,2,88,87,84,80,85,83,84,88,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak sekolah,Buruh,Sangat Rendah,Ya,6,Menumpang,CUKUP
+P,1,83,85,90,85,86,86,84,88,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,SMA sederajat,Wiraswasta,Sangat Rendah,Tidak,4,Menumpang,BAIK
+P,1,85,88,93,86,89,86,86,89,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Pedagang Kecil,Sangat Rendah,Tidak,5,Sewa,BAIK
+P,0,80,85,91,84,88,86,85,91,B,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Buruh,Rendah,SMA sederajat,Buruh,Cukup Rendah,Ya,3,Sewa,BAIK
+P,3,77,80,82,75,75,75,83,84,C,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wirausaha,Cukup Rendah,SD sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,CUKUP
+P,5,81,85,83,76,80,82,81,86,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Pedagang Kecil,Rendah,SMA sederajat,Lainnya,Sangat Rendah,Tidak,7,Sewa,CUKUP
+P,2,80,85,81,78,85,82,84,87,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,3,Rumah Sendiri,CUKUP
+P,1,83,86,91,87,87,87,86,90,A,tidak,tidak,negeri,kota,Kawin,SMP sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,BAIK
+P,0,87,85,89,85,86,86,86,88,B,tidak,tidak,negeri,kota,Kawin,SD sederajat,Karyawan Swasta,Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Ya,4,Sewa,BAIK
+P,1,84,84,88,86,87,86,86,89,B,tidak,tidak,swasta,kota,Kawin,SMP sederajat,Wiraswasta,Cukup Tinggi,S1,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Rumah Sendiri,BAIK
+P,0,80,85,88,83,85,84,85,89,B,tidak,tidak,swasta,kota,Kawin,SMA sederajat,Wiraswasta,Sangat Rendah,SMA sederajat,Wiraswasta,Sangat Rendah,Tidak,5,Menumpang,CUKUP
+P,4,81,85,89,81,85,85,85,89,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,4,Sewa,CUKUP
+L,0,81,88,90,86,87,83,85,89,B,tidak,ya,negeri,kota,Kawin,SMP sederajat,Wirausaha,Rendah,SMP sederajat,Wirausaha,Rendah,Tidak,4,Sewa,BAIK
+P,5,91,85,89,83,85,82,84,87,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Rendah,SMA sederajat,Wiraswasta,Cukup Rendah,Tidak,4,Sewa,BAIK
+P,4,82,84,91,84,88,84,86,89,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Karyawan Swasta,Cukup Tinggi,Tidak sekolah,Sudah Meninggal,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,5,80,86,86,77,87,82,84,87,B,tidak,tidak,negeri,kota,Cerai Mati,SMA sederajat,Buruh,Cukup Rendah,SMA sederajat,Sudah Meninggal,Tidak Berpenghasilan,Ya,4,Sewa,CUKUP
+L,0,91,85,84,81,88,82,84,89,B,ya,ya,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Tinggi,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Rumah Sendiri,BAIK
+P,3,81,86,90,85,85,84,85,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Karyawan Swasta,Cukup Rendah,SMA sederajat,Tidak bekerja,Tidak Berpenghasilan,Tidak,5,Sewa,BAIK
+P,4,83,81,86,85,87,82,84,88,B,tidak,tidak,negeri,kota,Kawin,SMA sederajat,Wiraswasta,Cukup Tinggi,SMP sederajat,Karyawan Swasta,Cukup Tinggi,Tidak,4,Rumah Sendiri,CUKUP
