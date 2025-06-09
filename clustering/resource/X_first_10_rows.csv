@@ -1,0 +1,11 @@
+n_kejuruan,n_mat,n_por,n_agama,n_bjawa,n_bindo,n_sikap_a,mother_work_lainnya,mother_salary_sangat_rendah,father_salary_tidak_berpenghasilan,extracurricular_tidak,father_edu_smp_sederajat,father_work_buruh,mother_salary_cukup_rendah,mother_work_buruh
+87,85,89,94,89,87,1,0,0,0,1,0,1,0,0
+86,82,84,83,88,87,0,0,0,0,1,1,0,1,0
+88,90,87,94,87,87,1,0,0,1,1,0,0,0,0
+88,85,89,94,89,88,1,0,0,0,0,1,1,0,0
+87,84,85,91,89,87,0,0,0,0,1,0,1,1,1
+86,84,83,92,89,83,0,0,0,0,1,0,0,0,0
+86,84,87,94,90,87,0,0,0,0,1,0,0,0,0
+90,86,90,95,90,87,1,0,0,0,1,0,0,0,0
+86,80,85,91,88,86,0,1,0,0,1,0,0,0,0
+87,84,91,95,89,84,1,0,0,1,1,0,0,0,0
