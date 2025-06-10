@@ -81,15 +81,9 @@ Dalam proyek ini, saya memanfaatkan berbagai *tools* dan *library* untuk memasti
 
 * **Integrated Development Environment (IDE):**
 
-    * **Visual Studio Code (VS Code):** IDE pilihan saya untuk fleksibilitas dalam pengembangan kode Python.
-
-    * **PyCharm:** Digunakan untuk proyek yang membutuhkan fitur *debugging* dan pengembangan yang lebih terstruktur.
-
     * **Jupyter Notebook:** Sangat penting untuk *prototyping* model yang cepat, *Exploratory Data Analysis* (EDA), dan visualisasi interaktif.
 
 * **Platform & Sumber Data:**
-
-    * **Lingkungan Pengembangan Lokal:** Untuk *prototyping* dan pengembangan awal.
 
     * **Google Colaboratory (Colab):** Memberikan akses gratis ke GPU/TPU untuk mempercepat pelatihan model, terutama untuk arsitektur yang lebih kompleks.
 
@@ -108,12 +102,6 @@ Dalam proyek ini, saya memanfaatkan berbagai *tools* dan *library* untuk memasti
     * **Matplotlib & Seaborn:** Digunakan untuk visualisasi data dan hasil analisis yang komprehensif.
 
     * **Shap:** Untuk analisis interpretasi model yang mendalam (SHAP values), membantu menjelaskan mengapa model membuat prediksi tertentu.
-
-* **Deployment (Prototipe Web):**
-
-    * **Flask / Django:** *Framework* web Python yang akan digunakan untuk membangun *interface* pengguna sederhana, memungkinkan interaksi dengan model yang telah dikembangkan.
-
-    * **HTML, CSS, JavaScript:** Teknologi *front-end* untuk merancang tampilan web yang responsif dan intuitif.
 
 * **Lain-lain:**
 
